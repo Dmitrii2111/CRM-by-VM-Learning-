@@ -1,0 +1,22 @@
+{
+   "ProfileTitle": "Профиль",
+   "Name": "Имя",
+   "Message_Enter_Name": "Вы не ввели имя",
+   "Btn_Update": "Обновить",
+   "Menu_Bill": "Счет",
+   "Menu_History": "История",
+   "Menu_Planning": "Планирование",
+   "Menu_New_Record": "Новая запись",
+   "Menu_Categories": "Категории",
+   "History" : "История записей",
+   "No_History_Records": "Записей пока нет",
+   "History_Add_Record": "Добавьте запись",
+   "History_Table_Sum": "Сумма",
+   "History_Table_Date": "Дата",
+   "History_Table_Category": "Категория",
+   "History_Table_Type": "Тип",
+   "History_Table_Open": "Открыть",
+   "History_Table_Open_Record": "Посмотреть запись",
+   "Pagination_Button_Prev": "Назад",
+   "Pagination_Button_Next": "Вперед"
+}

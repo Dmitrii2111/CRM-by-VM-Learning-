@@ -1,0 +1,22 @@
+{
+   "ProfileTitle": "Pofile",
+   "Name": "Имя",
+   "Message_Enter_Name": "Вы не ввели имя",
+   "Btn_Update": "Update",
+   "Menu_Bill": "Bill",
+   "Menu_History": "History",
+   "Menu_Planning": "Planning",
+   "Menu_New_Record": "New Record",
+   "Menu_Categories": "Categories",
+   "History" : "Records History",
+   "No_History_Records": "There is no records",
+   "History_Add_Record": "Add New Record",
+   "History_Table_Sum": "Sum",
+   "History_Table_Date": "Date",
+   "History_Table_Category": "Category",
+   "History_Table_Type": "Type",
+   "History_Table_Open": "Open",
+   "History_Table_Open_Record": "Open Record",
+   "Pagination_Button_Prev": "Prev",
+   "Pagination_Button_Next": "Next"
+}
